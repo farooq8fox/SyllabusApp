@@ -1,4 +1,4 @@
-#Syllabus App
+# Syllabus App
 
 A handy app to check syllabus of all the semesters, has data of all the branches at the RGUKT University.
 
